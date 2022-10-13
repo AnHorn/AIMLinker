@@ -10,6 +10,9 @@ We take "dBET6 fragments.mol" for testing.
 ## Postprocess
 Code in "postprocess.py" reveals some functions we designed to filtering ourputs generated from deep encoder-decoder network.
 
+## Model
+
+
 ## Docking Validation
 
 
