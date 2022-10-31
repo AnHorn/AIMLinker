@@ -17,4 +17,4 @@ Code in "postprocess.py" reveals some functions we designed to filtering ourputs
 The files "docking protein.pdb" and "docking ligands.smi", including predicted molecules passing the postprocess step, are input for docking validation. Top 10 best RMSD outputs are listed in "top 10 docking compounds.sdf".
 
 ## Contact Us
-Please contact Chu-Chung Lin [clin@anhornmed.com](mailto:clin@anhornmed.com).
+Please contact Chu-Chung Lin [cclin@anhornmed.com](mailto:cclin@anhornmed.com).
