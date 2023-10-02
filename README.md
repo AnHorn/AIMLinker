@@ -4,6 +4,9 @@
 
 This repository contains parts of our disclosed data. 
 
+## AIMLinker
+Code for inference. 
+
 ## Data Preprocess
 We take "dBET6 fragments.mol" for testing.
 
